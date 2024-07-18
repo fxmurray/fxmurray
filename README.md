@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fxmurray
 - 👀 I’m interested in computers, space, boating and technology
-- 🌱 I’m currently learning more about Java
+- 🌱 I’m currently learning more about Heirloom, ADW-KEY, Python, Java
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 How to reach me fxmurray@yahoo.com
 
